@@ -1,0 +1,17 @@
+# Logs
+/logs
+/tmp
+
+# Configuration files
+configuration.php
+
+# Cache
+/cache
+
+# Vendor dependencies
+/libraries/vendor
+/libraries/composer
+
+# Uploaded files
+/images
+/media
